@@ -90,7 +90,7 @@ Dataset Source-Kaggle
 
 ## Visualization's:
 
-### 1. Top 10 Frequent Itemaets (Apriori Algorithm)
+### 1. Top 10 Frequent Item ets (Apriori Algorithm)
 
 <img width="1486" height="859" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/ac0def61-86f8-4e2e-9334-69af9df6d635" />
 
