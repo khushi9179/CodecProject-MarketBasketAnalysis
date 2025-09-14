@@ -84,11 +84,12 @@ Dataset Source-Kaggle
    * This helps identify different customer groups (health-conscious vs. party buyers), allowing more tailored marketing campaigns.
 
 ## Outputs:  
-- frequent_itemsets_apriori.csv
-- frequent_itemsets_fpgrowth.csv
-- association_rules.csv 
+- [**View frequent_itemsets_apriori.csv**](https://github.com/khushi9179/Codectechnologies-Intern-MarketBasketAnalysis/blob/main/frequent_itemsets_apriori.csv)
+- [**View frequent_itemsets_fpgrowth.csv**](https://github.com/khushi9179/Codectechnologies-Intern-MarketBasketAnalysis/blob/main/frequent_itemsets_fpgrowth.csv)
+- [**View association_rules.csv**](https://github.com/khushi9179/Codectechnologies-Intern-MarketBasketAnalysis/blob/main/association_rules.csv) 
 
 ## Visualization's:
+1.
 
 
 ## Conclusion:
