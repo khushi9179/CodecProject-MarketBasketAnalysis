@@ -89,8 +89,18 @@ Dataset Source-Kaggle
 - [**View association_rules.csv**](https://github.com/khushi9179/Codectechnologies-Intern-MarketBasketAnalysis/blob/main/association_rules.csv) 
 
 ## Visualization's:
-1.
 
+### 1. Top 10 Frequent Itemaets (Apriori Algorithm)
+
+<img width="1486" height="859" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/ac0def61-86f8-4e2e-9334-69af9df6d635" />
+
+### 2. Association Rules Generated With (support vs confidence, lift as color)
+
+<img width="1499" height="874" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/96cf87a0-9208-4e03-9e8e-5df54b558f47" />
+
+### 3. Network graph of top rules (Top 15 by lift)
+
+<img width="1496" height="875" alt="Screenshot (169)" src="https://github.com/user-attachments/assets/4b82be32-b0ef-47f3-855a-121b39b61446" />
 
 ## Conclusion:
 Market Basket Analysis of the Groceries dataset revealed strong associations between items like **yogurt & citrus fruit, sausage & beer, frankfurter & vegetables**. These patterns can be used for **product bundling, cross-selling strategies, shelf placement, targeted promotions, and inventory planning**. By applying these insights, retailers can improve customer experience and increase overall sales.
