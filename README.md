@@ -106,3 +106,5 @@ Dataset Source-Kaggle
 Market Basket Analysis of the Groceries dataset revealed strong associations between items like **yogurt & citrus fruit, sausage & beer, frankfurter & vegetables**. These patterns can be used for **product bundling, cross-selling strategies, shelf placement, targeted promotions, and inventory planning**. By applying these insights, retailers can improve customer experience and increase overall sales.
 
 This project demonstrates how Market Basket Analysis helps retailers to understand customer buying behavior. By applying Apriori algorithm and association rules, businesses can design better promotions, improve store layout, and increase cross-selling opportunities.
+
+📌 Internship Project at [codec technologies] (https://codectechnologies.in/)
