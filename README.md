@@ -15,7 +15,7 @@ These insights can help retailers:
 
 ## Datase Used:
 Dataset Source-Kaggle
-[**View Groceries Dataset**]
+[**View Groceries Dataset**](https://github.com/khushi9179/Codectechnologies-Intern-MarketBasketAnalysis/blob/main/Groceries_dataset.csv.xlsx)
 
 ## Dataset Summary:
 * **Shape:** (38,765 rows, 3 columns)
