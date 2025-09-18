@@ -1,4 +1,4 @@
-# Codectechnologies-Intern-MarketBasketAnalysis
+# Codectechnologies-Project
 # Market Basket Analysis
 This project implements **Market Basket Analysis (MBA)** on a Groceries dataset using the **Apriori and FP-Growth algorithm**.
 The goal is to discover frequent itemsets and association rules that reveal customer purchasing patterns. 
